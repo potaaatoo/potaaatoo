@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @potaaatoo
 - 👀 I’m interested in front-end web developpement
 - 🌱 I’m currently learning CSS
-- 📫 My email: brickmaniak@proton.me
+- 📫 My email: diego.milliand@proton.me
 - 😄 Pronouns: He/him
 - ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpotaaatoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20views&edge_flat=false)
 <!---
