@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @potaaatoo<br>👀 I’m interested in front-end web developpement<br>🌱 I’m currently learning CSS and PHP<br>📫 My email: diego.milliand@proton.me<br>😄 Pronouns: He/him<br>🖥️ I code with Visual Studio Code, Atom and NeoVim
+👋 Hi, I’m @potaaatoo<br>👀 I’m interested in front-end web developpement<br>🌱 I’m currently learning CSS, JS and more, I'm also going to begin a new project 👀<br>📫 My email: diego.milliand@proton.me<br>😄 Pronouns: He/him<br>🖥️ I code with Visual Studio Code, Atom and NeoVim
 
 
 # 💻 Tech Stack:
