@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @potaaatoo<br>👀 I’m interested in front-end web developpement<br>🌱 I’m currently learning CSS, JS and more, I'm also going to begin a new project 👀<br>📫 Add me on Discord: `_potaaaato_backup`<br>😄 Pronouns: He/him<br>🖥️ I code with Visual Studio Code, Atom and NeoVim
+👋 Hi, I’m @potaaatoo<br>👀 I’m interested in front-end web developpement<br>🌱 I’m currently learning CSS, JS and more, I'm also going to begin a new project 👀<br>📫 Add me on Discord: `_potaaaato_backup`<br>😄 Pronouns: He/him<br>🖥️ I code with Visual Studio Code, Atom and NeoVim<br>I also have a Bitcoin adress if you want to make donations: `bc1q5gc6ntz02v5qfvrfts8kc8ru02mfxrv4fegf2f`
 
 
 # 💻 Tech Stack:
